@@ -1,22 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package aplicacion1;
-
-/**
- *
- * @author ColsutecR
- */
 public class Aplicacion1 {
-
-    /**
-     * @param args the command line arguments
-     */
+  
     public static void main(String[] args) {
-        int a = 5+5, suma = a;
-        System.out.println("La suma es: "+ suma);
+        
     }
-    
+    public void metodo(){
+        System.out.println("Esto es un metodo");
+    }
 }
